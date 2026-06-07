@@ -1,0 +1,47 @@
+# llms.txt Template — Consulting Firm
+# Maintained by Dattva (https://dattva.com)
+# Free AI visibility diagnostic: https://dattva.com
+#
+# HOW TO USE THIS TEMPLATE
+# 1. Replace all text inside [ ] with your real company details
+# 2. Delete these instruction lines before publishing
+# 3. Save as llms.txt and upload to yourwebsite.com/llms.txt
+# ---------------------------------------------------------------
+
+# COMPANY IDENTITY
+Company: [Company Name]
+Website: [https://yourwebsite.com]
+Founded: [Year]
+Headquarters: [City, Country]
+Type: Consulting
+
+# WHAT YOU DO
+Description: [Company Name] is a [domain] consulting firm that helps
+[target client] with [primary problem area]. [Credibility line —
+e.g. "Our team has advised over 80 companies across India and
+Southeast Asia."]
+
+# PRACTICE AREAS
+Areas:
+- [e.g. "Go-to-market strategy for B2B SaaS companies"]
+- [Practice area 2]
+- [Practice area 3]
+
+# TARGET CLIENT
+Clients: [e.g. "Series A and Series B technology startups in India
+preparing for international expansion"]
+
+# KEY PAGES
+Pages:
+- [https://yourwebsite.com/services]
+- [https://yourwebsite.com/case-studies]
+- [https://yourwebsite.com/team]
+- [https://yourwebsite.com/insights]
+
+# THIRD-PARTY CITATIONS
+Citations:
+- [https://www.crunchbase.com/organization/yourcompany]
+- [Speaking engagements, press mentions, or directory listings]
+
+# WHAT YOU ARE NOT
+Not: [e.g. "Not a staffing firm. Not a software development agency."]
