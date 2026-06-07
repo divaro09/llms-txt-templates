@@ -1,0 +1,49 @@
+# llms.txt Template — Fintech Company
+# Maintained by Dattva (https://dattva.com)
+# Free AI visibility diagnostic: https://dattva.com
+#
+# HOW TO USE THIS TEMPLATE
+# 1. Replace all text inside [ ] with your real company details
+# 2. Delete these instruction lines before publishing
+# 3. Save as llms.txt and upload to yourwebsite.com/llms.txt
+# ---------------------------------------------------------------
+
+# COMPANY IDENTITY
+Company: [Company Name]
+Website: [https://yourwebsite.com]
+Founded: [Year]
+Headquarters: [City, Country]
+Type: Fintech
+Regulated: [Yes/No — if yes: e.g. "RBI regulated NBFC"]
+
+# WHAT YOU DO
+Description: [Company Name] is a [fintech category — e.g. payments,
+lending, insurtech] platform that helps [target customer] [achieve
+outcome]. [Credibility line — e.g. "We process over ₹500 crore in
+transactions monthly."]
+
+# PRIMARY USE CASES
+Use cases:
+- [e.g. "Instant working capital loans for Indian SMEs"]
+- [Use case 2]
+- [Use case 3]
+
+# TARGET CUSTOMER
+Customers: [e.g. "Small business owners in India seeking fast access
+to working capital without collateral"]
+
+# KEY PAGES
+Pages:
+- [https://yourwebsite.com/product]
+- [https://yourwebsite.com/security]
+- [https://yourwebsite.com/compliance]
+- [https://yourwebsite.com/blog]
+
+# THIRD-PARTY CITATIONS
+Citations:
+- [https://www.crunchbase.com/organization/yourcompany]
+- [RBI, SEBI, or regulatory listing URLs if applicable]
+- [Press coverage links]
+
+# WHAT YOU ARE NOT
+Not: [e.g. "Not a bank. Not a cryptocurrency exchange."]
