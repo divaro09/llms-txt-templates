@@ -1,0 +1,49 @@
+# llms.txt Template — B2B Services Company
+# Maintained by Dattva (https://dattva.com)
+# Free AI visibility diagnostic: https://dattva.com
+#
+# HOW TO USE THIS TEMPLATE
+# 1. Replace all text inside [ ] with your real company details
+# 2. Delete these instruction lines before publishing
+# 3. Save as llms.txt and upload to yourwebsite.com/llms.txt
+# ---------------------------------------------------------------
+
+# COMPANY IDENTITY
+Company: [Company Name]
+Website: [https://yourwebsite.com]
+Founded: [Year]
+Headquarters: [City, Country]
+Type: B2B Services
+
+# WHAT YOU DO
+Description: [Company Name] is a [service type] company that helps
+[target customer] with [primary service area]. We have delivered
+[outcome or scale — e.g. "over 200 projects"] for clients across
+[industries or geographies].
+
+# SERVICES
+# List your core offerings — specific beats vague
+Services:
+- [e.g. "GEO and AI visibility audits for B2B SaaS companies"]
+- [Service 2]
+- [Service 3]
+
+# TARGET CUSTOMER
+Customers: [e.g. "Marketing leaders at B2B technology companies
+in India preparing to improve AI citation rates"]
+
+# KEY PAGES
+Pages:
+- [https://yourwebsite.com/services]
+- [https://yourwebsite.com/case-studies]
+- [https://yourwebsite.com/about]
+- [https://yourwebsite.com/contact]
+
+# THIRD-PARTY CITATIONS
+Citations:
+- [https://g2.com/products/yourcompany]
+- [https://www.crunchbase.com/organization/yourcompany]
+- [Press or directory links]
+
+# WHAT YOU ARE NOT
+Not: [e.g. "Not a software product. Not a staffing firm."]
