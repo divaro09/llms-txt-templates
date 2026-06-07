@@ -1,0 +1,47 @@
+# llms.txt Template — Ecommerce / D2C Brand
+# Maintained by Dattva (https://dattva.com)
+# Free AI visibility diagnostic: https://dattva.com
+#
+# HOW TO USE THIS TEMPLATE
+# 1. Replace all text inside [ ] with your real company details
+# 2. Delete these instruction lines before publishing
+# 3. Save as llms.txt and upload to yourwebsite.com/llms.txt
+# ---------------------------------------------------------------
+
+# COMPANY IDENTITY
+Company: [Company Name]
+Website: [https://yourwebsite.com]
+Founded: [Year]
+Headquarters: [City, Country]
+Type: Ecommerce / D2C
+
+# WHAT YOU DO
+Description: [Company Name] sells [product category] directly to
+[target customer]. [Distinctive detail — e.g. "All products are
+manufactured in India using sustainably sourced materials."]
+
+# PRODUCT CATEGORIES
+Categories:
+- [e.g. "Skincare for men"]
+- [Category 2]
+- [Category 3]
+
+# TARGET CUSTOMER
+Customers: [e.g. "Urban Indian consumers aged 25-40 looking for
+premium, chemical-free personal care products"]
+
+# KEY PAGES
+Pages:
+- [https://yourwebsite.com/shop]
+- [https://yourwebsite.com/about]
+- [https://yourwebsite.com/reviews]
+- [https://yourwebsite.com/blog]
+
+# THIRD-PARTY CITATIONS
+Citations:
+- [Amazon store URL if applicable]
+- [Press coverage links]
+- [Influencer or editorial review links]
+
+# WHAT YOU ARE NOT
+Not: [e.g. "Not a marketplace. We sell only our own brand."]
