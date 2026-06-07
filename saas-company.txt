@@ -1,0 +1,60 @@
+# llms.txt Template — SaaS Company
+# Maintained by Dattva (https://dattva.com)
+# Free AI visibility diagnostic: https://dattva.com
+#
+# HOW TO USE THIS TEMPLATE
+# 1. Replace all text inside [ ] with your real company details
+# 2. Delete these instruction lines (lines starting with #) before publishing
+# 3. Save as llms.txt and upload to yourwebsite.com/llms.txt
+# ---------------------------------------------------------------
+
+# COMPANY IDENTITY
+# Your basic details — AI uses this to identify and classify your brand
+Company: [Company Name]
+Website: [https://yourwebsite.com]
+Founded: [Year]
+Headquarters: [City, Country]
+Type: SaaS
+
+# WHAT YOU DO
+# 2-3 sentences. Plain language. No jargon.
+# Bad: "We leverage AI-powered synergies to disrupt enterprise workflows"
+# Good: "Acme helps finance teams reconcile invoices automatically"
+Description: [Company Name] is a [category] platform that helps
+[target customer] [achieve specific outcome]. We serve [number]
+customers across [industries or geographies].
+
+# PRIMARY USE CASES
+# The specific problems your product solves
+# AI matches these to buyer search queries — be specific
+Use cases:
+- [e.g. "Automate invoice reconciliation for finance teams"]
+- [Use case 2]
+- [Use case 3]
+
+# TARGET CUSTOMER
+# Who buys from you — job title, company size, industry, geography
+# The more specific, the better AI can match you to the right queries
+Customers: [e.g. "CFOs and finance managers at B2B manufacturing
+companies in India with 100-500 employees"]
+
+# KEY PAGES
+# Your most important URLs — AI will prioritise reading these
+Pages:
+- [https://yourwebsite.com/product]
+- [https://yourwebsite.com/pricing]
+- [https://yourwebsite.com/customers]
+- [https://yourwebsite.com/blog]
+
+# THIRD-PARTY CITATIONS
+# External URLs where your brand is mentioned — critical for AI trust
+# AI models verify brands exist outside their own domain
+Citations:
+- [https://g2.com/products/yourcompany]
+- [https://www.crunchbase.com/organization/yourcompany]
+- [Press coverage or review links]
+
+# WHAT YOU ARE NOT
+# Prevents AI from misclassifying your brand
+# e.g. if you are a SaaS tool, clarify you are not an agency
+Not: [e.g. "Not a consulting firm. Not a marketplace."]
