@@ -2,15 +2,12 @@
 
 A free collection of ready-to-use `llms.txt` templates for different company types — built to improve your visibility in AI-generated responses.
 
----
-
 ## What is llms.txt?
 
 `llms.txt` is a plain-text file you place at the root of your website (e.g., `https://yourcompany.com/llms.txt`). It tells AI language models — like ChatGPT, Claude, Perplexity, and Gemini — exactly who you are, what you do, and how you want to be described.
 
 Think of it as a `robots.txt` for AI: a simple, structured signal that helps AI systems understand and accurately represent your company when users ask questions about your industry, products, or services.
 
----
 
 ## Why does llms.txt matter?
 
@@ -21,7 +18,6 @@ AI models are increasingly the first place people go to research companies, comp
 
 A well-written `llms.txt` file gives AI models a canonical, authoritative source to cite. This is the foundation of **Generative Engine Optimization (GEO)** — the practice of making your company more visible and accurately represented in AI-generated answers.
 
----
 
 ## How to use these templates
 
@@ -32,7 +28,6 @@ A well-written `llms.txt` file gives AI models a canonical, authoritative source
 5. Upload it to the root of your website: `https://yourdomain.com/llms.txt`
 6. Optionally, also add a link to it in your `robots.txt` file
 
----
 
 ## Available Templates
 
@@ -44,7 +39,6 @@ A well-written `llms.txt` file gives AI models a canonical, authoritative source
 | `ecommerce-company.txt` | Online retail, marketplaces, and D2C brands |
 | `consulting-firm.txt` | Strategy, IT, management, and specialized consulting firms |
 
----
 
 ## Template Structure
 
@@ -62,7 +56,6 @@ Every template follows the same structure, based on what AI models need to accur
 - **Brand Terms** — canonical names for your brand
 - **AI Citation Guidance** — how you want AI to describe you
 
----
 
 ## Tips for Writing a Strong llms.txt
 
@@ -72,7 +65,6 @@ Every template follows the same structure, based on what AI models need to accur
 - **Keep it updated.** Add a "Last Updated" date at the top and refresh it when your products or positioning change.
 - **Link to authoritative pages.** Include real URLs for your pricing, docs, case studies, and blog. These help AI corroborate your claims.
 
----
 
 ## About
 
@@ -80,13 +72,11 @@ These templates were created by the team at **[Dattva](https://dattva.com)** —
 
 If you find these templates useful, visit [dattva.com](https://dattva.com) to learn more about GEO strategy, AI content audits, and citation-building for the AI era.
 
----
 
 ## Contributing
 
 Found a company type not covered here? Open an issue or submit a pull request with a new template. All contributions welcome.
 
----
 
 ## License
 
