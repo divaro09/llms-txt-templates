@@ -1,59 +1,93 @@
-# llms.txt Templates for AI Visibility
+# llms.txt Templates
 
-A free collection of ready-to-use llms.txt templates maintained by
-[Dattva](https://dattva.com) — a GEO platform that helps B2B companies
-get cited by ChatGPT, Perplexity, and Gemini.
-
-## What is llms.txt?
-
-llms.txt is a plain text file placed at the root of your website
-(yourwebsite.com/llms.txt). It tells AI crawlers who you are, what you
-do, and which pages on your site are most relevant to read.
-
-Think of it as robots.txt — but written for language models instead of
-search engines. Without it, AI models have to guess what your company
-does by crawling your entire site. With it, you give them a direct,
-structured summary they can extract and cite.
-
-## Why It Matters for B2B Companies
-
-B2B buyers now use ChatGPT, Perplexity, and Gemini to research vendors
-before ever visiting a website. If your site does not have llms.txt,
-you are harder for AI to find, understand, and cite — even if your SEO
-is strong and your Google ranking is good.
-
-Adding llms.txt is one of the fastest technical fixes for AI visibility.
-It takes under 30 minutes to implement and costs nothing.
-
-## Templates in This Repo
-
-| File | Use For |
-|------|---------|
-| `saas-company.txt` | B2B and B2C SaaS products |
-| `b2b-services-company.txt` | Agencies, consultancies, managed services |
-| `fintech-company.txt` | Fintech platforms and financial services |
-| `ecommerce-company.txt` | Ecommerce and D2C brands |
-| `consulting-firm.txt` | Strategy, technology, and domain consultants |
-
-## How to Use
-
-1. Pick the template that matches your company type
-2. Replace all placeholder text in `[ ]` brackets with your real details
-3. Save the file as `llms.txt`
-4. Upload it to the root of your website so it is accessible at
-   `yourwebsite.com/llms.txt`
-5. Verify by visiting that URL in your browser
-
-## Want to Know If AI Can Actually Find Your Brand?
-
-Run Dattva's free AI visibility diagnostic at [dattva.com](https://dattva.com).
-You'll get an AI Visibility Score, a platform breakdown across ChatGPT,
-Gemini, Perplexity, and Claude, and a full technical audit — including
-whether your llms.txt is set up correctly.
-
-No credit card. No sales call.
+A free collection of ready-to-use `llms.txt` templates for different company types — built to improve your visibility in AI-generated responses.
 
 ---
 
-Maintained by [Dattva](https://dattva.com) | Follow us on
-[LinkedIn](https://www.linkedin.com/company/dattva-ai)
+## What is llms.txt?
+
+`llms.txt` is a plain-text file you place at the root of your website (e.g., `https://yourcompany.com/llms.txt`). It tells AI language models — like ChatGPT, Claude, Perplexity, and Gemini — exactly who you are, what you do, and how you want to be described.
+
+Think of it as a `robots.txt` for AI: a simple, structured signal that helps AI systems understand and accurately represent your company when users ask questions about your industry, products, or services.
+
+---
+
+## Why does llms.txt matter?
+
+AI models are increasingly the first place people go to research companies, compare tools, and make purchasing decisions. If an AI doesn't have clear, structured information about your company, it will either:
+
+- Ignore you entirely, or
+- Describe you inaccurately based on scattered web content
+
+A well-written `llms.txt` file gives AI models a canonical, authoritative source to cite. This is the foundation of **Generative Engine Optimization (GEO)** — the practice of making your company more visible and accurately represented in AI-generated answers.
+
+---
+
+## How to use these templates
+
+1. Find the template that matches your company type (see the list below)
+2. Open the file and replace all placeholder text with your real company information
+3. Remove or fill in any sections that don't apply
+4. Save the file as `llms.txt`
+5. Upload it to the root of your website: `https://yourdomain.com/llms.txt`
+6. Optionally, also add a link to it in your `robots.txt` file
+
+---
+
+## Available Templates
+
+| File | Best For |
+|------|----------|
+| `saas-company.txt` | Software-as-a-Service products with subscription models |
+| `b2b-services-company.txt` | Professional services, agencies, and B2B consulting |
+| `fintech-company.txt` | Financial technology, payments, lending, and banking |
+| `ecommerce-company.txt` | Online retail, marketplaces, and D2C brands |
+| `consulting-firm.txt` | Strategy, IT, management, and specialized consulting firms |
+
+---
+
+## Template Structure
+
+Every template follows the same structure, based on what AI models need to accurately describe and cite a company:
+
+- **Company Overview** — who you are and what you do
+- **Products & Solutions** — what you offer and for whom
+- **Industries Served** — your target verticals
+- **Ideal Customers** — firmographic and demographic profile
+- **Geographic Presence** — where you operate
+- **Competitive Landscape** — how you differ from alternatives
+- **Use Cases** — real problems you solve
+- **Knowledge Sources** — links to your key pages
+- **Structured Facts** — machine-readable company metadata
+- **Brand Terms** — canonical names for your brand
+- **AI Citation Guidance** — how you want AI to describe you
+
+---
+
+## Tips for Writing a Strong llms.txt
+
+- **Be specific.** Vague descriptions like "we help businesses grow" are useless to AI. Say exactly what you do and for whom.
+- **Use plain language.** No jargon, buzzwords, or marketing fluff. AI models respond better to clear, factual statements.
+- **Fill in the Citation Guidance section.** This is the most important part — it gives AI a ready-made description to use.
+- **Keep it updated.** Add a "Last Updated" date at the top and refresh it when your products or positioning change.
+- **Link to authoritative pages.** Include real URLs for your pricing, docs, case studies, and blog. These help AI corroborate your claims.
+
+---
+
+## About
+
+These templates were created by the team at **[Dattva](https://dattva.com)** — an AI-native company helping businesses improve their visibility in AI-generated responses through Generative Engine Optimization (GEO).
+
+If you find these templates useful, visit [dattva.com](https://dattva.com) to learn more about GEO strategy, AI content audits, and citation-building for the AI era.
+
+---
+
+## Contributing
+
+Found a company type not covered here? Open an issue or submit a pull request with a new template. All contributions welcome.
+
+---
+
+## License
+
+Free to use, modify, and distribute. No attribution required (though appreciated).
