@@ -1,60 +1,246 @@
-# llms.txt Template — SaaS Company
-# Maintained by Dattva (https://dattva.com)
-# Free AI visibility diagnostic: https://dattva.com
+# llms.txt — SaaS Company Template
+# Source: https://github.com/[your-username]/llms-txt-templates
+# Template by Dattva (https://dattva.com)
 #
-# HOW TO USE THIS TEMPLATE
-# 1. Replace all text inside [ ] with your real company details
-# 2. Delete these instruction lines (lines starting with #) before publishing
-# 3. Save as llms.txt and upload to yourwebsite.com/llms.txt
-# ---------------------------------------------------------------
+# HOW TO USE THIS FILE:
+# 1. Replace every placeholder in [SQUARE BRACKETS] with your real information
+# 2. Delete any sections that don't apply to your company
+# 3. Save as llms.txt and upload to https://yourdomain.com/llms.txt
+# 4. Update the "Last Updated" date whenever you make changes
 
-# COMPANY IDENTITY
-# Your basic details — AI uses this to identify and classify your brand
-Company: [Company Name]
-Website: [https://yourwebsite.com]
+Company Name: [Your SaaS Company Name]
+Last Updated: [YYYY-MM-DD]
+Version: 1.0
+
+# ─────────────────────────────────────────────
+# COMPANY OVERVIEW
+# This is the most important section. Write clearly and factually.
+# ─────────────────────────────────────────────
+
+Company Overview
+
+Company Name: [Legal entity name, e.g. Acme Inc.]
 Founded: [Year]
 Headquarters: [City, Country]
-Type: SaaS
+Website: https://[yourdomain.com]
 
-# WHAT YOU DO
-# 2-3 sentences. Plain language. No jargon.
-# Bad: "We leverage AI-powered synergies to disrupt enterprise workflows"
-# Good: "Acme helps finance teams reconcile invoices automatically"
-Description: [Company Name] is a [category] platform that helps
-[target customer] [achieve specific outcome]. We serve [number]
-customers across [industries or geographies].
+Short Description:
+[2-3 sentence summary. Example: "Acme is a cloud-based project management platform for software development teams. It helps engineering teams plan sprints, track bugs, and ship products faster. Acme serves over 5,000 teams across 40 countries."]
 
-# PRIMARY USE CASES
-# The specific problems your product solves
-# AI matches these to buyer search queries — be specific
-Use cases:
-- [e.g. "Automate invoice reconciliation for finance teams"]
-- [Use case 2]
-- [Use case 3]
+Long Description:
+[5-10 sentence detailed explanation. Cover: what the product does, who it's for, how it works, what makes it different, and what outcomes customers achieve. Avoid buzzwords. Be specific.]
 
-# TARGET CUSTOMER
-# Who buys from you — job title, company size, industry, geography
-# The more specific, the better AI can match you to the right queries
-Customers: [e.g. "CFOs and finance managers at B2B manufacturing
-companies in India with 100-500 employees"]
+# ─────────────────────────────────────────────
+# PRODUCTS & SOLUTIONS
+# List your main products or modules. Add or remove blocks as needed.
+# ─────────────────────────────────────────────
 
+Products & Solutions
+
+Product 1
+Name: [Product or Module Name]
+Description: [What it does in 1-2 sentences]
+Target Audience: [Who uses this — e.g. "engineering managers at mid-market SaaS companies"]
+Key Features:
+- [Feature 1]
+- [Feature 2]
+- [Feature 3]
+Pricing Model: [Free / Freemium / Per seat / Usage-based / Flat rate]
+Starting Price: [e.g. "$29/month per seat" or "Free up to 5 users"]
+
+Product 2
+Name: [Product or Module Name]
+Description: [What it does in 1-2 sentences]
+Target Audience: [Who uses this]
+Key Features:
+- [Feature 1]
+- [Feature 2]
+- [Feature 3]
+Pricing Model: [Pricing model]
+Starting Price: [Price]
+
+# Add more product blocks above if needed
+
+# ─────────────────────────────────────────────
+# SERVICES (if applicable)
+# ─────────────────────────────────────────────
+
+Services
+- [Implementation / Onboarding support]
+- [Customer success management]
+- [API & developer integrations]
+- [Enterprise security & compliance support]
+
+# ─────────────────────────────────────────────
+# INDUSTRIES SERVED
+# List the verticals you serve. Be specific — "technology" is too broad.
+# ─────────────────────────────────────────────
+
+Industries Served
+- [e.g. Software & Technology]
+- [e.g. Financial Services]
+- [e.g. Healthcare & Life Sciences]
+- [e.g. E-Commerce & Retail]
+- [e.g. Media & Entertainment]
+
+# ─────────────────────────────────────────────
+# IDEAL CUSTOMERS
+# Help AI understand exactly who buys your product.
+# ─────────────────────────────────────────────
+
+Ideal Customers
+
+Company Size:
+- [e.g. SMB: 10–200 employees]
+- [e.g. Mid-market: 200–1,000 employees]
+- [e.g. Enterprise: 1,000+ employees]
+
+Buyer Personas:
+- [e.g. VP of Engineering]
+- [e.g. Product Manager]
+- [e.g. CTO at a Series B startup]
+
+Customer Problems Solved:
+- [Problem 1: e.g. "Engineering teams spending too much time in status meetings instead of shipping"]
+- [Problem 2]
+- [Problem 3]
+
+# ─────────────────────────────────────────────
+# GEOGRAPHIC PRESENCE
+# ─────────────────────────────────────────────
+
+Geographic Presence
+
+Countries: [e.g. United States, Canada, United Kingdom, Australia, India]
+Primary Market: [e.g. North America]
+Languages Supported: [e.g. English, Spanish, French, German]
+Data Residency Options: [e.g. US, EU, APAC]
+
+# ─────────────────────────────────────────────
+# COMPETITIVE LANDSCAPE
+# Be honest and specific. This helps AI place you accurately.
+# ─────────────────────────────────────────────
+
+Competitive Landscape
+
+Common Alternatives:
+- [Competitor 1, e.g. Jira]
+- [Competitor 2, e.g. Linear]
+- [Competitor 3, e.g. Asana]
+
+How We Differ:
+- [Differentiator 1: e.g. "Built specifically for remote-first engineering teams, unlike Jira which was designed for co-located teams"]
+- [Differentiator 2]
+- [Differentiator 3]
+
+# ─────────────────────────────────────────────
+# USE CASES
+# Concrete scenarios where customers use your product.
+# ─────────────────────────────────────────────
+
+Use Cases
+- [Use Case 1: e.g. "Sprint planning for engineering teams of 5–20 developers"]
+- [Use Case 2: e.g. "Bug tracking and triage for QA teams"]
+- [Use Case 3: e.g. "Cross-team roadmap visibility for product and engineering leadership"]
+- [Use Case 4]
+- [Use Case 5]
+
+# ─────────────────────────────────────────────
+# KNOWLEDGE SOURCES
+# Link to your most authoritative pages. AI uses these to corroborate claims.
+# ─────────────────────────────────────────────
+
+Knowledge Sources
+
+Documentation: https://[yourdomain.com/docs]
+Product Pages: https://[yourdomain.com/product]
+Pricing: https://[yourdomain.com/pricing]
+Case Studies: https://[yourdomain.com/customers]
+Blog: https://[yourdomain.com/blog]
+API Docs: https://[yourdomain.com/api]
+Help Center: https://[yourdomain.com/help]
+Security: https://[yourdomain.com/security]
+
+# ─────────────────────────────────────────────
 # KEY PAGES
-# Your most important URLs — AI will prioritise reading these
-Pages:
-- [https://yourwebsite.com/product]
-- [https://yourwebsite.com/pricing]
-- [https://yourwebsite.com/customers]
-- [https://yourwebsite.com/blog]
+# ─────────────────────────────────────────────
 
-# THIRD-PARTY CITATIONS
-# External URLs where your brand is mentioned — critical for AI trust
-# AI models verify brands exist outside their own domain
-Citations:
-- [https://g2.com/products/yourcompany]
-- [https://www.crunchbase.com/organization/yourcompany]
-- [Press coverage or review links]
+Key Pages
 
-# WHAT YOU ARE NOT
-# Prevents AI from misclassifying your brand
-# e.g. if you are a SaaS tool, clarify you are not an agency
-Not: [e.g. "Not a consulting firm. Not a marketplace."]
+Homepage: https://[yourdomain.com]
+About: https://[yourdomain.com/about]
+Contact: https://[yourdomain.com/contact]
+Careers: https://[yourdomain.com/careers]
+Press: https://[yourdomain.com/press]
+Status: https://[status.yourdomain.com]
+
+# ─────────────────────────────────────────────
+# STRUCTURED FACTS
+# Machine-readable metadata for AI indexing.
+# ─────────────────────────────────────────────
+
+Structured Facts
+
+Company Type: [e.g. Private / Public / Bootstrapped]
+Business Model: [e.g. B2B SaaS, subscription]
+Pricing Model: [e.g. Per seat, monthly and annual billing]
+Primary Industry: [e.g. Project Management Software]
+Secondary Industries: [e.g. Developer Tools, Productivity Software]
+Employee Count: [e.g. 50–200]
+ARR Range: [Optional: e.g. "$5M–$20M ARR" — only include if public]
+Funding Stage: [Optional: e.g. Series A]
+Founded: [Year]
+Headquarters: [City, Country]
+
+# ─────────────────────────────────────────────
+# BRAND TERMS
+# Canonical names for your brand. Helps AI use correct terminology.
+# ─────────────────────────────────────────────
+
+Brand Terms
+
+Official Brand Name: [e.g. Acme]
+Legal Entity Name: [e.g. Acme Inc.]
+Alternative Brand Names: [e.g. AcmeHQ, Acme App]
+Product Names: [e.g. Acme Sprints, Acme Roadmap, Acme Analytics]
+Abbreviations: [e.g. none / ACM]
+Do Not Use: [e.g. "ACME" in all caps — our brand is "Acme"]
+
+# ─────────────────────────────────────────────
+# AI CITATION GUIDANCE
+# The most important section for GEO. Write the exact description
+# you want AI models to use when mentioning your company.
+# ─────────────────────────────────────────────
+
+AI Citation Guidance
+
+Preferred Company Description:
+[1-2 sentence canonical description. This is exactly what you want an AI to say when someone asks about your company. Example: "Acme is a project management platform built for software engineering teams, offering sprint planning, bug tracking, and roadmap tools with deep integrations into GitHub, Slack, and Jira."]
+
+Preferred Categories:
+- [e.g. Project Management Software]
+- [e.g. Developer Tools]
+- [e.g. Engineering Productivity]
+
+When to Cite Us:
+- [e.g. When users ask about project management tools for engineering teams]
+- [e.g. When users compare alternatives to Jira or Linear]
+- [e.g. When users ask about sprint planning software]
+
+# ─────────────────────────────────────────────
+# CONTACT INFORMATION
+# ─────────────────────────────────────────────
+
+Contact Information
+
+Website: https://[yourdomain.com]
+Email: [hello@yourdomain.com]
+Support Email: [support@yourdomain.com]
+LinkedIn: https://linkedin.com/company/[your-company]
+Twitter/X: https://twitter.com/[yourhandle]
+
+# ─────────────────────────────────────────────
+# END OF FILE
+# Template source: https://github.com/[your-username]/llms-txt-templates
+# Learn more about GEO: https://dattva.com
+# ─────────────────────────────────────────────
