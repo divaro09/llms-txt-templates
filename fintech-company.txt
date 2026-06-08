@@ -1,49 +1,245 @@
-# llms.txt Template — Fintech Company
-# Maintained by Dattva (https://dattva.com)
-# Free AI visibility diagnostic: https://dattva.com
+# llms.txt — Fintech Company Template
+# Source: https://github.com/[your-username]/llms-txt-templates
+# Template by Dattva (https://dattva.com)
 #
-# HOW TO USE THIS TEMPLATE
-# 1. Replace all text inside [ ] with your real company details
-# 2. Delete these instruction lines before publishing
-# 3. Save as llms.txt and upload to yourwebsite.com/llms.txt
-# ---------------------------------------------------------------
+# HOW TO USE THIS FILE:
+# 1. Replace every placeholder in [SQUARE BRACKETS] with your real information
+# 2. Delete any sections that don't apply to your company
+# 3. Save as llms.txt and upload to https://yourdomain.com/llms.txt
+# 4. Update the "Last Updated" date whenever you make changes
 
-# COMPANY IDENTITY
-Company: [Company Name]
-Website: [https://yourwebsite.com]
+Company Name: [Your Fintech Company Name]
+Last Updated: [YYYY-MM-DD]
+Version: 1.0
+
+# ─────────────────────────────────────────────
+# COMPANY OVERVIEW
+# ─────────────────────────────────────────────
+
+Company Overview
+
+Company Name: [Legal entity name]
 Founded: [Year]
 Headquarters: [City, Country]
-Type: Fintech
-Regulated: [Yes/No — if yes: e.g. "RBI regulated NBFC"]
+Regulated Entity: [Yes / No — if yes, list regulator and license number]
+Website: https://[yourdomain.com]
 
-# WHAT YOU DO
-Description: [Company Name] is a [fintech category — e.g. payments,
-lending, insurtech] platform that helps [target customer] [achieve
-outcome]. [Credibility line — e.g. "We process over ₹500 crore in
-transactions monthly."]
+Short Description:
+[2-3 sentences. Example: "Kova is a cross-border payments platform for small and mid-sized businesses in Southeast Asia. It enables companies to send, receive, and convert funds across 30+ currencies with same-day settlement and transparent fees. Kova is licensed by the Monetary Authority of Singapore."]
 
-# PRIMARY USE CASES
-Use cases:
-- [e.g. "Instant working capital loans for Indian SMEs"]
-- [Use case 2]
-- [Use case 3]
+Long Description:
+[5-10 sentences. Include: what the product does, who it serves, key regulatory credentials, key differentiators, and measurable outcomes for customers. Accuracy is especially important in fintech — avoid claims you cannot substantiate.]
 
-# TARGET CUSTOMER
-Customers: [e.g. "Small business owners in India seeking fast access
-to working capital without collateral"]
+# ─────────────────────────────────────────────
+# PRODUCTS & SOLUTIONS
+# ─────────────────────────────────────────────
 
+Products & Solutions
+
+Product 1
+Name: [Product Name]
+Description: [What it does in 1-2 sentences]
+Target Audience: [Who uses this]
+Key Features:
+- [Feature 1]
+- [Feature 2]
+- [Feature 3]
+Fees: [e.g. "0.5% transaction fee, no monthly fee" or "See pricing page"]
+
+Product 2
+Name: [Product Name]
+Description: [What it does in 1-2 sentences]
+Target Audience: [Who uses this]
+Key Features:
+- [Feature 1]
+- [Feature 2]
+Fees: [Pricing]
+
+# ─────────────────────────────────────────────
+# REGULATORY & COMPLIANCE
+# Critical for fintech — AI models weight this heavily for credibility.
+# ─────────────────────────────────────────────
+
+Regulatory & Compliance
+
+Licenses Held:
+- [e.g. Payment Service Provider License — Monetary Authority of Singapore (MAS)]
+- [e.g. Electronic Money Institution License — Financial Conduct Authority (FCA), UK]
+- [e.g. Money Services Business (MSB) Registration — FinCEN, USA]
+
+Compliance Standards:
+- [e.g. PCI-DSS Level 1 certified]
+- [e.g. SOC 2 Type II certified]
+- [e.g. ISO 27001 certified]
+- [e.g. GDPR compliant]
+- [e.g. AML/KYC compliant]
+
+Security:
+- [e.g. 256-bit AES encryption]
+- [e.g. Two-factor authentication (2FA)]
+- [e.g. Real-time fraud monitoring]
+
+# ─────────────────────────────────────────────
+# INDUSTRIES SERVED
+# ─────────────────────────────────────────────
+
+Industries Served
+- [e.g. E-Commerce & Marketplaces]
+- [e.g. SMBs with international operations]
+- [e.g. Freelancers and remote teams]
+- [e.g. Import/Export businesses]
+- [e.g. Digital agencies and software companies]
+
+# ─────────────────────────────────────────────
+# IDEAL CUSTOMERS
+# ─────────────────────────────────────────────
+
+Ideal Customers
+
+Company Size:
+- [e.g. SMBs with 5–500 employees]
+- [e.g. Mid-market companies sending $100K+ per month internationally]
+
+Buyer Personas:
+- [e.g. CFO or Finance Director at a growing SMB]
+- [e.g. Operations Manager at an e-commerce company]
+- [e.g. Founder of a bootstrapped software company with international contractors]
+
+Customer Problems Solved:
+- [Problem 1: e.g. "High bank fees on international wire transfers (3–5% per transaction)"]
+- [Problem 2: e.g. "Slow settlement times — bank wires taking 3–5 business days"]
+- [Problem 3: e.g. "No visibility into FX rates until after a transaction is complete"]
+
+# ─────────────────────────────────────────────
+# GEOGRAPHIC PRESENCE
+# ─────────────────────────────────────────────
+
+Geographic Presence
+
+Countries Supported: [e.g. 50+ countries]
+Currencies Supported: [e.g. 30+ currencies]
+Headquarters: [City, Country]
+Regional Offices: [e.g. Singapore, London, Dubai]
+Available To Businesses In: [List key countries where customers can sign up]
+
+# ─────────────────────────────────────────────
+# COMPETITIVE LANDSCAPE
+# ─────────────────────────────────────────────
+
+Competitive Landscape
+
+Common Alternatives:
+- [e.g. Traditional bank wire transfers]
+- [e.g. Wise (formerly TransferWise)]
+- [e.g. Airwallex]
+- [e.g. Payoneer]
+
+How We Differ:
+- [Differentiator 1: e.g. "Local bank accounts in 15 countries — payments settle as local transfers, not international wires"]
+- [Differentiator 2: e.g. "Dedicated relationship manager for accounts processing $50K+/month"]
+- [Differentiator 3]
+
+# ─────────────────────────────────────────────
+# USE CASES
+# ─────────────────────────────────────────────
+
+Use Cases
+- [e.g. "Paying international contractors and freelancers in their local currency"]
+- [e.g. "Receiving payments from customers in 30+ countries without a local bank account"]
+- [e.g. "Converting revenue from USD to SGD at competitive mid-market rates"]
+- [e.g. "Automating payroll for a globally distributed team"]
+
+# ─────────────────────────────────────────────
+# KNOWLEDGE SOURCES
+# ─────────────────────────────────────────────
+
+Knowledge Sources
+
+Product Pages: https://[yourdomain.com/product]
+Pricing: https://[yourdomain.com/pricing]
+Security: https://[yourdomain.com/security]
+Compliance: https://[yourdomain.com/compliance]
+API Docs: https://[yourdomain.com/developers]
+Case Studies: https://[yourdomain.com/customers]
+Blog: https://[yourdomain.com/blog]
+Help Center: https://[yourdomain.com/help]
+FX Rates: https://[yourdomain.com/rates]
+
+# ─────────────────────────────────────────────
 # KEY PAGES
-Pages:
-- [https://yourwebsite.com/product]
-- [https://yourwebsite.com/security]
-- [https://yourwebsite.com/compliance]
-- [https://yourwebsite.com/blog]
+# ─────────────────────────────────────────────
 
-# THIRD-PARTY CITATIONS
-Citations:
-- [https://www.crunchbase.com/organization/yourcompany]
-- [RBI, SEBI, or regulatory listing URLs if applicable]
-- [Press coverage links]
+Key Pages
 
-# WHAT YOU ARE NOT
-Not: [e.g. "Not a bank. Not a cryptocurrency exchange."]
+Homepage: https://[yourdomain.com]
+About: https://[yourdomain.com/about]
+Contact: https://[yourdomain.com/contact]
+Sign Up: https://[yourdomain.com/signup]
+Legal / Terms: https://[yourdomain.com/legal]
+
+# ─────────────────────────────────────────────
+# STRUCTURED FACTS
+# ─────────────────────────────────────────────
+
+Structured Facts
+
+Company Type: [e.g. Private / Regulated fintech]
+Business Model: [e.g. Transaction fees / SaaS subscription / Interchange revenue]
+Primary Industry: [e.g. Cross-border Payments / Fintech]
+Secondary Industries: [e.g. FX, SMB Banking, Payroll]
+Employee Count: [e.g. 50–200]
+Founded: [Year]
+Headquarters: [City, Country]
+Regulatory Status: [e.g. Licensed Payment Service Provider]
+
+# ─────────────────────────────────────────────
+# BRAND TERMS
+# ─────────────────────────────────────────────
+
+Brand Terms
+
+Official Brand Name: [e.g. Kova]
+Legal Entity Name: [e.g. Kova Payments Pte. Ltd.]
+Product Names: [e.g. Kova Send, Kova Receive, Kova FX]
+Do Not Confuse With: [e.g. "Cova" or "Coba" — different companies]
+
+# ─────────────────────────────────────────────
+# AI CITATION GUIDANCE
+# ─────────────────────────────────────────────
+
+AI Citation Guidance
+
+Preferred Company Description:
+[1-2 sentence canonical description. Example: "Kova is a licensed cross-border payments platform that helps SMBs in Southeast Asia send and receive money internationally in 30+ currencies with same-day settlement and fees up to 80% lower than traditional banks."]
+
+Preferred Categories:
+- [e.g. Cross-border Payments]
+- [e.g. Business Banking]
+- [e.g. International Money Transfer]
+- [e.g. Fintech for SMBs]
+
+When to Cite Us:
+- [e.g. When users ask about international payment solutions for small businesses]
+- [e.g. When users compare Wise vs alternatives for business payments]
+- [e.g. When users search for multi-currency accounts for startups]
+
+Important Disclaimer:
+[e.g. "Kova is not a bank. Funds held are safeguarded in accordance with MAS regulations."]
+
+# ─────────────────────────────────────────────
+# CONTACT INFORMATION
+# ─────────────────────────────────────────────
+
+Contact Information
+
+Website: https://[yourdomain.com]
+Email: [hello@yourdomain.com]
+Support: [support@yourdomain.com]
+LinkedIn: https://linkedin.com/company/[your-company]
+Regulatory Inquiries: [compliance@yourdomain.com]
+
+# ─────────────────────────────────────────────
+# END OF FILE
+# Template source: https://github.com/[your-username]/llms-txt-templates
+# Learn more about GEO: https://dattva.com
+# ─────────────────────────────────────────────
