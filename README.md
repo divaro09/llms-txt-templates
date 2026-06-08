@@ -56,4 +56,4 @@ No credit card. No sales call.
 ---
 
 Maintained by [Dattva](https://dattva.com) | Follow us on
-[LinkedIn](https://linkedin.com/company/dattva)
+[LinkedIn]((https://www.linkedin.com/company/dattva-ai/))
