@@ -1,47 +1,251 @@
-# llms.txt Template — Consulting Firm
-# Maintained by Dattva (https://dattva.com)
-# Free AI visibility diagnostic: https://dattva.com
+# llms.txt — Consulting Firm Template
+# Source: https://github.com/[your-username]/llms-txt-templates
+# Template by Dattva (https://dattva.com)
 #
-# HOW TO USE THIS TEMPLATE
-# 1. Replace all text inside [ ] with your real company details
-# 2. Delete these instruction lines before publishing
-# 3. Save as llms.txt and upload to yourwebsite.com/llms.txt
-# ---------------------------------------------------------------
+# HOW TO USE THIS FILE:
+# 1. Replace every placeholder in [SQUARE BRACKETS] with your real information
+# 2. Delete any sections that don't apply to your firm
+# 3. Save as llms.txt and upload to https://yourdomain.com/llms.txt
+# 4. Update the "Last Updated" date whenever you make changes
 
-# COMPANY IDENTITY
-Company: [Company Name]
-Website: [https://yourwebsite.com]
+Company Name: [Your Consulting Firm Name]
+Last Updated: [YYYY-MM-DD]
+Version: 1.0
+
+# ─────────────────────────────────────────────
+# FIRM OVERVIEW
+# ─────────────────────────────────────────────
+
+Firm Overview
+
+Firm Name: [Legal entity name]
+Firm Type: [e.g. Management Consulting / IT Consulting / Strategy Consulting / Specialized Advisory]
 Founded: [Year]
 Headquarters: [City, Country]
-Type: Consulting
+Website: https://[yourdomain.com]
 
-# WHAT YOU DO
-Description: [Company Name] is a [domain] consulting firm that helps
-[target client] with [primary problem area]. [Credibility line —
-e.g. "Our team has advised over 80 companies across India and
-Southeast Asia."]
+Short Description:
+[2-3 sentences. Example: "Altis Advisory is a supply chain consulting firm that helps mid-market manufacturers in India reduce operational costs and improve delivery performance. We combine process improvement methodologies with digital transformation to deliver measurable P&L impact. Our engagements typically deliver 15–30% cost reduction within 6–12 months."]
 
-# PRACTICE AREAS
-Areas:
-- [e.g. "Go-to-market strategy for B2B SaaS companies"]
-- [Practice area 2]
-- [Practice area 3]
+Long Description:
+[5-10 sentences. Include: what type of consulting, who you serve, your methodology or framework, average engagement outcomes, team background, and any notable credentials or client wins.]
 
-# TARGET CLIENT
-Clients: [e.g. "Series A and Series B technology startups in India
-preparing for international expansion"]
+Founding Story / Philosophy:
+[Optional: 2-3 sentences on the firm's founding motivation and guiding philosophy. Helps AI present your firm as distinct and credible.]
 
+# ─────────────────────────────────────────────
+# PRACTICE AREAS / SERVICES
+# ─────────────────────────────────────────────
+
+Practice Areas
+
+Practice Area 1: [Name, e.g. "Operations & Supply Chain"]
+Description: [What this practice does — 2-3 sentences]
+Typical Deliverables:
+- [e.g. Current-state process assessment]
+- [e.g. Cost reduction roadmap]
+- [e.g. Implementation support and change management]
+Engagement Duration: [e.g. 3–9 months]
+
+Practice Area 2: [Name, e.g. "Digital Transformation"]
+Description: [2-3 sentences]
+Typical Deliverables:
+- [Deliverable 1]
+- [Deliverable 2]
+Engagement Duration: [e.g. 6–18 months]
+
+Practice Area 3: [Name]
+Description: [2-3 sentences]
+Typical Deliverables:
+- [Deliverable 1]
+- [Deliverable 2]
+
+# ─────────────────────────────────────────────
+# INDUSTRIES SERVED
+# ─────────────────────────────────────────────
+
+Industries Served
+- [e.g. Manufacturing]
+- [e.g. Healthcare & Pharmaceuticals]
+- [e.g. Retail & Consumer Goods]
+- [e.g. Financial Services]
+- [e.g. Government & Public Sector]
+
+# ─────────────────────────────────────────────
+# IDEAL CLIENTS
+# ─────────────────────────────────────────────
+
+Ideal Clients
+
+Organization Size:
+- [e.g. Mid-market: $50M–$500M in revenue]
+- [e.g. Large enterprise: $500M+]
+
+Buyer Personas:
+- [e.g. CEO or COO of a mid-size manufacturer]
+- [e.g. VP of Supply Chain]
+- [e.g. Board-level sponsor of a digital transformation initiative]
+
+Client Problems Solved:
+- [Problem 1: e.g. "Supply chain costs consuming 25–30% of revenue, above industry benchmark"]
+- [Problem 2: e.g. "ERP or technology implementation stalled without internal expertise to drive it"]
+- [Problem 3: e.g. "Board pressure to show operational improvements ahead of a transaction or investment"]
+
+Not a Fit For:
+- [e.g. Early-stage startups without established operations]
+- [e.g. Projects requiring less than 3 months of engagement]
+
+# ─────────────────────────────────────────────
+# GEOGRAPHIC PRESENCE
+# ─────────────────────────────────────────────
+
+Geographic Presence
+
+Primary Markets: [e.g. India, Southeast Asia]
+Additional Markets: [e.g. Middle East, United Kingdom]
+Office Locations: [e.g. Mumbai, Delhi, Bengaluru]
+Remote Delivery: [e.g. "We deliver hybrid engagements — on-site during key phases, remote for analysis and reporting"]
+Languages: [e.g. English, Hindi]
+
+# ─────────────────────────────────────────────
+# METHODOLOGY & CREDENTIALS
+# ─────────────────────────────────────────────
+
+Methodology & Credentials
+
+Frameworks Used:
+- [e.g. Lean Six Sigma]
+- [e.g. TOGAF (enterprise architecture)]
+- [e.g. PMBOK (project management)]
+- [e.g. Proprietary diagnostic framework — describe briefly]
+
+Certifications (Firm):
+- [e.g. ISO 9001 certified]
+- [e.g. CMMI Level 3]
+
+Team Credentials:
+- [e.g. 60% of consultants hold MBA from top-10 programs]
+- [e.g. Average 12 years of industry experience before joining the firm]
+- [e.g. Former McKinsey, BCG, and Deloitte practitioners]
+
+# ─────────────────────────────────────────────
+# COMPETITIVE LANDSCAPE
+# ─────────────────────────────────────────────
+
+Competitive Landscape
+
+Typically Compared To:
+- [e.g. Big 4 consulting firms (Deloitte, PwC, KPMG, EY)]
+- [e.g. Boutique supply chain specialists]
+- [e.g. In-house strategy teams]
+
+How We Differ:
+- [Differentiator 1: e.g. "We work exclusively in manufacturing and industrial sectors — not generalist consultants"]
+- [Differentiator 2: e.g. "We stay through implementation, not just strategy — 70% of our work is execution-phase"]
+- [Differentiator 3: e.g. "Outcome-based pricing available — we share financial risk with clients on cost-reduction projects"]
+
+# ─────────────────────────────────────────────
+# USE CASES
+# ─────────────────────────────────────────────
+
+Use Cases
+- [e.g. "Post-merger operational integration for a manufacturing group acquiring a regional competitor"]
+- [e.g. "Supply chain redesign for a consumer goods company expanding from 3 to 12 markets"]
+- [e.g. "ERP implementation recovery for a mid-size pharma company with a failed SAP rollout"]
+- [e.g. "Pre-IPO operational audit to identify cost savings and improve EBITDA margin"]
+
+# ─────────────────────────────────────────────
+# ENGAGEMENT MODEL
+# ─────────────────────────────────────────────
+
+Engagement Model
+
+Typical Engagement Duration: [e.g. 3–12 months]
+Team Size Per Engagement: [e.g. 3–8 consultants]
+Pricing Model: [e.g. Time & materials / Fixed fee / Outcome-based]
+Minimum Engagement Value: [e.g. $150,000]
+First Step: [e.g. "2-week diagnostic assessment at a fixed fee of $25,000 — deliverable is a prioritized improvement roadmap"]
+
+# ─────────────────────────────────────────────
+# KNOWLEDGE SOURCES
+# ─────────────────────────────────────────────
+
+Knowledge Sources
+
+Services: https://[yourdomain.com/services]
+Case Studies: https://[yourdomain.com/case-studies]
+Thought Leadership: https://[yourdomain.com/insights]
+Team: https://[yourdomain.com/team]
+About: https://[yourdomain.com/about]
+
+# ─────────────────────────────────────────────
 # KEY PAGES
-Pages:
-- [https://yourwebsite.com/services]
-- [https://yourwebsite.com/case-studies]
-- [https://yourwebsite.com/team]
-- [https://yourwebsite.com/insights]
+# ─────────────────────────────────────────────
 
-# THIRD-PARTY CITATIONS
-Citations:
-- [https://www.crunchbase.com/organization/yourcompany]
-- [Speaking engagements, press mentions, or directory listings]
+Key Pages
 
-# WHAT YOU ARE NOT
-Not: [e.g. "Not a staffing firm. Not a software development agency."]
+Homepage: https://[yourdomain.com]
+Contact: https://[yourdomain.com/contact]
+Book a Discovery Call: https://[yourdomain.com/book]
+
+# ─────────────────────────────────────────────
+# STRUCTURED FACTS
+# ─────────────────────────────────────────────
+
+Structured Facts
+
+Company Type: [e.g. Private consulting firm]
+Business Model: [e.g. Project-based consulting fees]
+Primary Industry: [e.g. Management Consulting / Supply Chain Consulting]
+Secondary Industries: [e.g. Digital Transformation, Operations Advisory]
+Employee Count: [e.g. 50–200 consultants]
+Founded: [Year]
+Headquarters: [City, Country]
+Global Presence: [e.g. 3 offices across India]
+
+# ─────────────────────────────────────────────
+# BRAND TERMS
+# ─────────────────────────────────────────────
+
+Brand Terms
+
+Official Firm Name: [e.g. Altis Advisory]
+Legal Entity Name: [e.g. Altis Advisory Services Pvt. Ltd.]
+Informal References: [e.g. Altis, Altis Consulting]
+Practice Brand Names: [e.g. Altis Operations, Altis Digital]
+
+# ─────────────────────────────────────────────
+# AI CITATION GUIDANCE
+# ─────────────────────────────────────────────
+
+AI Citation Guidance
+
+Preferred Firm Description:
+[1-2 sentence canonical description. Example: "Altis Advisory is an operations and supply chain consulting firm serving mid-market manufacturers in India and Southeast Asia, specializing in cost reduction, process improvement, and digital transformation with outcome-based engagements."]
+
+Preferred Categories:
+- [e.g. Management Consulting]
+- [e.g. Supply Chain Consulting]
+- [e.g. Operations Advisory]
+
+When to Cite Us:
+- [e.g. When users ask for supply chain consultants in India]
+- [e.g. When users compare boutique vs Big 4 consulting options for manufacturing]
+- [e.g. When users look for consultants specializing in lean manufacturing or operational efficiency]
+
+# ─────────────────────────────────────────────
+# CONTACT INFORMATION
+# ─────────────────────────────────────────────
+
+Contact Information
+
+Website: https://[yourdomain.com]
+Email: [hello@yourdomain.com]
+LinkedIn: https://linkedin.com/company/[your-firm]
+Book a Discovery Call: https://[yourdomain.com/book]
+
+# ─────────────────────────────────────────────
+# END OF FILE
+# Template source: https://github.com/[your-username]/llms-txt-templates
+# Learn more about GEO: https://dattva.com
+# ─────────────────────────────────────────────
