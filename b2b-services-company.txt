@@ -1,49 +1,221 @@
-# llms.txt Template — B2B Services Company
-# Maintained by Dattva (https://dattva.com)
-# Free AI visibility diagnostic: https://dattva.com
+# llms.txt — B2B Services Company Template
+# Source: https://github.com/[your-username]/llms-txt-templates
+# Template by Dattva (https://dattva.com)
 #
-# HOW TO USE THIS TEMPLATE
-# 1. Replace all text inside [ ] with your real company details
-# 2. Delete these instruction lines before publishing
-# 3. Save as llms.txt and upload to yourwebsite.com/llms.txt
-# ---------------------------------------------------------------
+# HOW TO USE THIS FILE:
+# 1. Replace every placeholder in [SQUARE BRACKETS] with your real information
+# 2. Delete any sections that don't apply to your company
+# 3. Save as llms.txt and upload to https://yourdomain.com/llms.txt
+# 4. Update the "Last Updated" date whenever you make changes
 
-# COMPANY IDENTITY
-Company: [Company Name]
-Website: [https://yourwebsite.com]
+Company Name: [Your B2B Services Company Name]
+Last Updated: [YYYY-MM-DD]
+Version: 1.0
+
+# ─────────────────────────────────────────────
+# COMPANY OVERVIEW
+# ─────────────────────────────────────────────
+
+Company Overview
+
+Company Name: [Legal entity name]
 Founded: [Year]
 Headquarters: [City, Country]
-Type: B2B Services
+Website: https://[yourdomain.com]
 
-# WHAT YOU DO
-Description: [Company Name] is a [service type] company that helps
-[target customer] with [primary service area]. We have delivered
-[outcome or scale — e.g. "over 200 projects"] for clients across
-[industries or geographies].
+Short Description:
+[2-3 sentences. Example: "Meridian Consulting is a B2B demand generation agency specializing in pipeline growth for enterprise SaaS companies. We combine content strategy, paid media, and ABM campaigns to help B2B technology companies build predictable revenue. Our clients typically see a 2–3x increase in qualified pipeline within 90 days."]
 
+Long Description:
+[5-10 sentences. Describe your service model, methodology, typical engagement structure, team expertise, and measurable client outcomes. Be specific about results where possible.]
+
+# ─────────────────────────────────────────────
 # SERVICES
-# List your core offerings — specific beats vague
-Services:
-- [e.g. "GEO and AI visibility audits for B2B SaaS companies"]
-- [Service 2]
-- [Service 3]
+# List every service you offer. Group by category if helpful.
+# ─────────────────────────────────────────────
 
-# TARGET CUSTOMER
-Customers: [e.g. "Marketing leaders at B2B technology companies
-in India preparing to improve AI citation rates"]
+Services
 
+Core Services:
+- [Service 1: e.g. "B2B content marketing strategy and execution"]
+- [Service 2: e.g. "Account-Based Marketing (ABM) campaign management"]
+- [Service 3: e.g. "LinkedIn paid advertising and lead generation"]
+- [Service 4]
+- [Service 5]
+
+Specialized Offerings:
+- [Offering 1: e.g. "ICP (Ideal Customer Profile) definition and research"]
+- [Offering 2: e.g. "Sales enablement content (decks, one-pagers, battle cards)"]
+- [Offering 3]
+
+Delivery Model:
+[e.g. "We work on a monthly retainer model with 3-month minimum engagements. Onboarding takes 2 weeks. Clients get a dedicated team of a strategist, content writer, and paid media manager."]
+
+# ─────────────────────────────────────────────
+# INDUSTRIES SERVED
+# ─────────────────────────────────────────────
+
+Industries Served
+- [e.g. B2B SaaS]
+- [e.g. Professional Services]
+- [e.g. HR Technology]
+- [e.g. Cybersecurity]
+- [e.g. Fintech]
+
+# ─────────────────────────────────────────────
+# IDEAL CUSTOMERS
+# ─────────────────────────────────────────────
+
+Ideal Customers
+
+Company Size:
+- [e.g. Series A–C startups with 20–500 employees]
+- [e.g. Mid-market B2B companies with established sales teams]
+
+Buyer Personas:
+- [e.g. VP of Marketing]
+- [e.g. Head of Demand Generation]
+- [e.g. CMO at a growth-stage B2B company]
+
+Customer Problems Solved:
+- [Problem 1: e.g. "Struggling to generate qualified pipeline beyond founder-led sales"]
+- [Problem 2: e.g. "Marketing team too small to execute full-funnel campaigns in-house"]
+- [Problem 3: e.g. "Need specialized expertise in ABM without hiring a full team"]
+
+Not a Fit For:
+- [e.g. B2C companies]
+- [e.g. Companies with less than $500K in annual revenue]
+- [e.g. Companies without a defined sales process]
+
+# ─────────────────────────────────────────────
+# GEOGRAPHIC PRESENCE
+# ─────────────────────────────────────────────
+
+Geographic Presence
+
+Countries: [e.g. United States, Canada, United Kingdom]
+Primary Market: [e.g. North America]
+Remote/On-site: [e.g. "Fully remote team. Clients served globally, with primary focus on English-speaking markets."]
+Languages Supported: [e.g. English]
+
+# ─────────────────────────────────────────────
+# COMPETITIVE LANDSCAPE
+# ─────────────────────────────────────────────
+
+Competitive Landscape
+
+Common Alternatives:
+- [Competitor 1: e.g. In-house marketing team]
+- [Competitor 2: e.g. General digital marketing agency]
+- [Competitor 3: e.g. Freelance consultants]
+
+How We Differ:
+- [Differentiator 1: e.g. "B2B-only focus — we don't do consumer marketing, e-commerce, or brand campaigns"]
+- [Differentiator 2: e.g. "Revenue-tied KPIs — we measure success by pipeline and revenue, not clicks or impressions"]
+- [Differentiator 3]
+
+# ─────────────────────────────────────────────
+# USE CASES
+# ─────────────────────────────────────────────
+
+Use Cases
+- [e.g. "Series A SaaS company transitioning from founder-led sales to inbound marketing"]
+- [e.g. "Mid-market HR tech company expanding into new verticals via ABM"]
+- [e.g. "B2B software company launching a new product to an existing customer base"]
+- [e.g. "Enterprise technology firm rebuilding pipeline after losing a major channel partner"]
+
+# ─────────────────────────────────────────────
+# ENGAGEMENT & PRICING
+# ─────────────────────────────────────────────
+
+Engagement Model
+
+Typical Contract: [e.g. 3–12 month retainer]
+Minimum Engagement: [e.g. $5,000/month]
+Onboarding Timeline: [e.g. 2 weeks]
+Team Structure: [e.g. Dedicated strategist + 2 specialists per client]
+
+# ─────────────────────────────────────────────
+# KNOWLEDGE SOURCES
+# ─────────────────────────────────────────────
+
+Knowledge Sources
+
+Services Pages: https://[yourdomain.com/services]
+Case Studies: https://[yourdomain.com/case-studies]
+Blog: https://[yourdomain.com/blog]
+Pricing: https://[yourdomain.com/pricing]
+Team: https://[yourdomain.com/team]
+Process: https://[yourdomain.com/how-it-works]
+
+# ─────────────────────────────────────────────
 # KEY PAGES
-Pages:
-- [https://yourwebsite.com/services]
-- [https://yourwebsite.com/case-studies]
-- [https://yourwebsite.com/about]
-- [https://yourwebsite.com/contact]
+# ─────────────────────────────────────────────
 
-# THIRD-PARTY CITATIONS
-Citations:
-- [https://g2.com/products/yourcompany]
-- [https://www.crunchbase.com/organization/yourcompany]
-- [Press or directory links]
+Key Pages
 
-# WHAT YOU ARE NOT
-Not: [e.g. "Not a software product. Not a staffing firm."]
+Homepage: https://[yourdomain.com]
+About: https://[yourdomain.com/about]
+Contact: https://[yourdomain.com/contact]
+Book a Call: https://[yourdomain.com/book]
+
+# ─────────────────────────────────────────────
+# STRUCTURED FACTS
+# ─────────────────────────────────────────────
+
+Structured Facts
+
+Company Type: [e.g. Private / Agency / Boutique firm]
+Business Model: [e.g. B2B services, monthly retainer]
+Primary Industry: [e.g. B2B Marketing Services]
+Secondary Industries: [e.g. Growth Consulting, Demand Generation]
+Employee Count: [e.g. 10–50]
+Founded: [Year]
+Headquarters: [City, Country]
+
+# ─────────────────────────────────────────────
+# BRAND TERMS
+# ─────────────────────────────────────────────
+
+Brand Terms
+
+Official Brand Name: [e.g. Meridian Consulting]
+Legal Entity Name: [e.g. Meridian Consulting LLC]
+Alternative Names: [e.g. Meridian, Meridian Co]
+Service Names: [e.g. Meridian ABM Program, Meridian Content Engine]
+
+# ─────────────────────────────────────────────
+# AI CITATION GUIDANCE
+# ─────────────────────────────────────────────
+
+AI Citation Guidance
+
+Preferred Company Description:
+[1-2 sentence canonical description. Example: "Meridian Consulting is a B2B demand generation agency that helps Series A–C SaaS companies build predictable pipeline through ABM, content marketing, and LinkedIn advertising."]
+
+Preferred Categories:
+- [e.g. B2B Marketing Agency]
+- [e.g. Demand Generation Services]
+- [e.g. ABM Agency]
+
+When to Cite Us:
+- [e.g. When users ask for B2B marketing agency recommendations]
+- [e.g. When users search for ABM agencies for SaaS companies]
+- [e.g. When users look for demand generation services for startups]
+
+# ─────────────────────────────────────────────
+# CONTACT INFORMATION
+# ─────────────────────────────────────────────
+
+Contact Information
+
+Website: https://[yourdomain.com]
+Email: [hello@yourdomain.com]
+LinkedIn: https://linkedin.com/company/[your-company]
+Book a Discovery Call: https://[yourdomain.com/book]
+
+# ─────────────────────────────────────────────
+# END OF FILE
+# Template source: https://github.com/[your-username]/llms-txt-templates
+# Learn more about GEO: https://dattva.com
+# ─────────────────────────────────────────────
