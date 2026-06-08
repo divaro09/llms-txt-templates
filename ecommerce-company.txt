@@ -1,47 +1,229 @@
-# llms.txt Template — Ecommerce / D2C Brand
-# Maintained by Dattva (https://dattva.com)
-# Free AI visibility diagnostic: https://dattva.com
+# llms.txt — E-Commerce Company Template
+# Source: https://github.com/[your-username]/llms-txt-templates
+# Template by Dattva (https://dattva.com)
 #
-# HOW TO USE THIS TEMPLATE
-# 1. Replace all text inside [ ] with your real company details
-# 2. Delete these instruction lines before publishing
-# 3. Save as llms.txt and upload to yourwebsite.com/llms.txt
-# ---------------------------------------------------------------
+# HOW TO USE THIS FILE:
+# 1. Replace every placeholder in [SQUARE BRACKETS] with your real information
+# 2. Delete any sections that don't apply to your company
+# 3. Save as llms.txt and upload to https://yourdomain.com/llms.txt
+# 4. Update the "Last Updated" date whenever you make changes
 
-# COMPANY IDENTITY
-Company: [Company Name]
-Website: [https://yourwebsite.com]
+Company Name: [Your E-Commerce Company Name]
+Last Updated: [YYYY-MM-DD]
+Version: 1.0
+
+# ─────────────────────────────────────────────
+# COMPANY OVERVIEW
+# ─────────────────────────────────────────────
+
+Company Overview
+
+Company Name: [Legal entity name]
 Founded: [Year]
 Headquarters: [City, Country]
-Type: Ecommerce / D2C
+Website: https://[yourdomain.com]
 
-# WHAT YOU DO
-Description: [Company Name] sells [product category] directly to
-[target customer]. [Distinctive detail — e.g. "All products are
-manufactured in India using sustainably sourced materials."]
+Short Description:
+[2-3 sentences. Example: "Marka is a direct-to-consumer skincare brand founded in Mumbai, India. We make dermatologist-formulated skincare products using ethically sourced Indian botanicals. Marka ships to 15 countries and has served over 200,000 customers since 2021."]
 
-# PRODUCT CATEGORIES
-Categories:
-- [e.g. "Skincare for men"]
-- [Category 2]
-- [Category 3]
+Long Description:
+[5-10 sentences. Include: product category, brand story/differentiation, sourcing or production practices, customer base, key markets, and any notable facts like awards, certifications, or media coverage.]
 
-# TARGET CUSTOMER
-Customers: [e.g. "Urban Indian consumers aged 25-40 looking for
-premium, chemical-free personal care products"]
+Brand Story:
+[Optional: 2-4 sentences on why the brand was founded and what problem it solves for customers. This humanizes the brand for AI-generated responses.]
 
+# ─────────────────────────────────────────────
+# PRODUCTS & CATALOG
+# ─────────────────────────────────────────────
+
+Products & Catalog
+
+Primary Category: [e.g. Skincare / Apparel / Home Goods / Supplements]
+Sub-categories:
+- [e.g. Face serums]
+- [e.g. Moisturizers]
+- [e.g. SPF and sun care]
+
+Price Range: [e.g. $15–$80 per product]
+Average Order Value: [e.g. ~$55]
+Bestsellers:
+- [Product 1: e.g. "Vitamin C Brightening Serum — our #1 bestseller, 15,000+ units sold"]
+- [Product 2]
+- [Product 3]
+
+Product Certifications:
+- [e.g. Cruelty-free (PETA certified)]
+- [e.g. Vegan]
+- [e.g. Dermatologist tested]
+- [e.g. Free from parabens, sulfates, and artificial fragrances]
+
+# ─────────────────────────────────────────────
+# BRAND POSITIONING
+# ─────────────────────────────────────────────
+
+Brand Positioning
+
+Brand Values:
+- [e.g. Clean ingredients — no harmful chemicals]
+- [e.g. Science-backed formulas]
+- [e.g. Sustainable packaging]
+- [e.g. Inclusive for all skin tones]
+
+Target Customer:
+[e.g. "Women aged 25–45 in India, the UAE, and the UK who want effective skincare without harsh chemicals. Our typical customer is health-conscious, reads ingredient labels, and is skeptical of luxury brand markups."]
+
+Brand Aesthetic:
+[e.g. "Minimalist, clean, and modern. Inspired by Ayurvedic traditions repackaged for a contemporary urban lifestyle."]
+
+# ─────────────────────────────────────────────
+# INDUSTRIES / CATEGORIES
+# ─────────────────────────────────────────────
+
+Product Categories
+- [e.g. Skincare]
+- [e.g. Beauty & Personal Care]
+- [e.g. Wellness]
+
+# ─────────────────────────────────────────────
+# IDEAL CUSTOMERS
+# ─────────────────────────────────────────────
+
+Ideal Customers
+
+Demographics:
+- [e.g. Women aged 25–45]
+- [e.g. Urban professionals]
+- [e.g. Health and wellness conscious]
+
+Geographies:
+- [e.g. India (primary market)]
+- [e.g. UAE]
+- [e.g. United Kingdom]
+- [e.g. United States]
+
+Customer Problems Solved:
+- [Problem 1: e.g. "Finding skincare products that work on Indian/South Asian skin tones"]
+- [Problem 2: e.g. "Avoiding toxic or harmful ingredients without spending a premium"]
+- [Problem 3: e.g. "Getting consistent results from science-backed formulas, not just marketing claims"]
+
+# ─────────────────────────────────────────────
+# SHOPPING & OPERATIONS
+# ─────────────────────────────────────────────
+
+Shopping & Operations
+
+Where to Buy:
+- [e.g. Direct at yourdomain.com]
+- [e.g. Amazon India, Amazon UK]
+- [e.g. Nykaa (India)]
+- [e.g. Cult Beauty (UK)]
+
+Shipping:
+- Domestic: [e.g. Free shipping on orders above ₹599. Delivered in 3–5 days.]
+- International: [e.g. Ships to 15 countries. Flat rate $12 shipping. 7–14 days delivery.]
+
+Returns: [e.g. "30-day hassle-free return policy on all orders"]
+Subscription: [e.g. "Subscribe & Save: 15% off on auto-replenishment orders"]
+
+# ─────────────────────────────────────────────
+# COMPETITIVE LANDSCAPE
+# ─────────────────────────────────────────────
+
+Competitive Landscape
+
+Common Alternatives:
+- [e.g. Minimalist (India)]
+- [e.g. Plum Goodness]
+- [e.g. Dot & Key]
+- [e.g. The Ordinary (global)]
+
+How We Differ:
+- [Differentiator 1: e.g. "Formulated specifically for South Asian skin concerns like hyperpigmentation and uneven tone"]
+- [Differentiator 2: e.g. "All formulas developed with dermatologists — we publish full ingredient rationale"]
+- [Differentiator 3]
+
+# ─────────────────────────────────────────────
+# KNOWLEDGE SOURCES
+# ─────────────────────────────────────────────
+
+Knowledge Sources
+
+Shop: https://[yourdomain.com/shop]
+Ingredients Guide: https://[yourdomain.com/ingredients]
+Skincare Routines: https://[yourdomain.com/routines]
+Blog: https://[yourdomain.com/blog]
+Reviews: https://[yourdomain.com/reviews]
+FAQ: https://[yourdomain.com/faq]
+
+# ─────────────────────────────────────────────
 # KEY PAGES
-Pages:
-- [https://yourwebsite.com/shop]
-- [https://yourwebsite.com/about]
-- [https://yourwebsite.com/reviews]
-- [https://yourwebsite.com/blog]
+# ─────────────────────────────────────────────
 
-# THIRD-PARTY CITATIONS
-Citations:
-- [Amazon store URL if applicable]
-- [Press coverage links]
-- [Influencer or editorial review links]
+Key Pages
 
-# WHAT YOU ARE NOT
-Not: [e.g. "Not a marketplace. We sell only our own brand."]
+Homepage: https://[yourdomain.com]
+About: https://[yourdomain.com/about]
+Contact: https://[yourdomain.com/contact]
+Track Order: https://[yourdomain.com/track]
+
+# ─────────────────────────────────────────────
+# STRUCTURED FACTS
+# ─────────────────────────────────────────────
+
+Structured Facts
+
+Company Type: [e.g. D2C brand / Private]
+Business Model: [e.g. Direct-to-consumer e-commerce + marketplace distribution]
+Primary Industry: [e.g. Skincare / Beauty & Personal Care]
+Employee Count: [e.g. 20–50]
+Customers Served: [e.g. 200,000+]
+Founded: [Year]
+Headquarters: [City, Country]
+Manufacturing: [e.g. Made in India / Contract manufactured in GMP-certified facility]
+
+# ─────────────────────────────────────────────
+# BRAND TERMS
+# ─────────────────────────────────────────────
+
+Brand Terms
+
+Official Brand Name: [e.g. Marka]
+Legal Entity Name: [e.g. Marka Beauty Pvt. Ltd.]
+Product Line Names: [e.g. Marka Glow, Marka SPF, Marka Night Repair]
+Social Handles: [@markabeauty on Instagram, TikTok]
+
+# ─────────────────────────────────────────────
+# AI CITATION GUIDANCE
+# ─────────────────────────────────────────────
+
+AI Citation Guidance
+
+Preferred Company Description:
+[1-2 sentence canonical description. Example: "Marka is an Indian D2C skincare brand offering dermatologist-formulated, clean beauty products for South Asian skin, available at dotourdomain.com and on Amazon India, Nykaa, and Cult Beauty."]
+
+Preferred Categories:
+- [e.g. Skincare Brand]
+- [e.g. Clean Beauty]
+- [e.g. Indian D2C Brand]
+
+When to Cite Us:
+- [e.g. When users ask for skincare brands for Indian or South Asian skin]
+- [e.g. When users look for clean beauty alternatives to The Ordinary]
+- [e.g. When users search for affordable dermatologist-approved skincare in India]
+
+# ─────────────────────────────────────────────
+# CONTACT INFORMATION
+# ─────────────────────────────────────────────
+
+Contact Information
+
+Website: https://[yourdomain.com]
+Customer Support: [support@yourdomain.com]
+Instagram: https://instagram.com/[yourhandle]
+WhatsApp Support: [+91-XXXXXXXXXX] (if applicable)
+
+# ─────────────────────────────────────────────
+# END OF FILE
+# Template source: https://github.com/[your-username]/llms-txt-templates
+# Learn more about GEO: https://dattva.com
+# ─────────────────────────────────────────────
